@@ -10,3 +10,7 @@
 
 * Cloning large repositories in a light way: https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/
   * Discusses how to use `git clone --depth=1 --no-single-branch -b <branch> <url>` and `git clone --filter=blob:none <url>` to clone large repository without getting all the files  
+
+## GoogleTest and CMake
+
+* Test C code with GoogleTest and CMake: https://notes.eatonphil.com/unit-testing-c-code-with-gtest.html
