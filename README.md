@@ -13,4 +13,8 @@
 
 ## GoogleTest and CMake
 
-* Test C code with GoogleTest and CMake: https://notes.eatonphil.com/unit-testing-c-code-with-gtest.html
+* Test C code with GoogleTest and CMake:
+  * https://notes.eatonphil.com/unit-testing-c-code-with-gtest.html
+    * Discusses a way to test C code with tests written in C++ with googletest  
+  * https://github.com/cpp-for-yourself/lectures-and-homeworks/blob/main/lectures/googletest.md
+    * Another similar approach with small differences 
