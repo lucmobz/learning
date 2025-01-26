@@ -18,3 +18,7 @@
     * Discusses a way to test C code with tests written in C++ with googletest  
   * https://github.com/cpp-for-yourself/lectures-and-homeworks/blob/main/lectures/googletest.md
     * Another similar approach with small differences 
+
+## Visual Studio 2022 Debugger Pretty Printing
+
+* Use `.natvis` files in CMake project root folders to allow for custom visualization of variables when debugging: https://learn.microsoft.com/en-us/visualstudio/debugger/create-custom-views-of-native-objects?view=vs-2022
